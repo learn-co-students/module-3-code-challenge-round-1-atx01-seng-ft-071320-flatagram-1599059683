@@ -123,3 +123,12 @@ body {
 .comment-button:focus {
   outline: none;
 }
+
+.delete-button {
+  border: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: rgb(238, 92, 92);
+  cursor: pointer;
+  transition: color 300ms;
+}
